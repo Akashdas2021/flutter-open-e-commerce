@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "490202314157",
+    "project_id": "opencommerce-f04d3",
+    "storage_bucket": "opencommerce-f04d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490202314157:android:dd48c03c9b6fc3505d5d24",
+        "android_client_info": {
+          "package_name": "com.labs.auradix.ecommerce.opencommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490202314157-qvr18nvte9uunlhqtjovgnea6g5qt6fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-pyMYAU9UubJ18Bx4snyBGpkeWCsBXmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490202314157-qvr18nvte9uunlhqtjovgnea6g5qt6fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
